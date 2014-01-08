@@ -9,6 +9,7 @@ public:
     A(double m_numero) : numero(m_numero){}  //constructor
     double &obtener_numero(){return numero;}
 
+asdkfhskjfahdjkshkjhkjhjkhkj
 };
 
 class B
