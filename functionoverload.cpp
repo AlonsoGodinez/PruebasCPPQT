@@ -10,7 +10,6 @@ public:
     double &obtener_numero(){return numero;}
 
 };
-agergaaaaaa
 
 class B
 {
