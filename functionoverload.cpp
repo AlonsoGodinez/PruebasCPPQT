@@ -6,7 +6,7 @@ class A
 {
     double numero;
 public:
-    A(double m_numero) : numero(m_numero){}  //constructor
+    A(double m_numero) : numero(m_numero){}  //constuctor
     double &obtener_numero(){return numero;}
 
 asdkfhskjfahdjkshkjhkjhjkhkj
